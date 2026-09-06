@@ -40,13 +40,16 @@ State, District, Crop, Year, Season, Area, Area Units, Production, Production Un
 8. Production Distribution by Unit Type
 9. Season-wise Agricultural Production Share
 
+https://public.tableau.com/shared/9C4YKXR95?:display_count=n&:origin=viz_share_link
+
 ## Dashboard
 
 The Tableau dashboard combines the visualizations to provide an interactive overview of India's agricultural production, cultivated area, crop patterns, seasonal distribution, and regional performance.
 
 ## Key Insights
 
-Key findings from the completed Tableau visualizations will be added here.
+Tableau entire Workbook share link 
+https://public.tableau.com/views/Indian_Agricultuer_production_Analysis_Story/IndianAgriculturePerformanceSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Conclusion
 
